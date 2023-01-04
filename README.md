@@ -8,7 +8,8 @@
 [![OpenCore](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?label=OpenCore)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 [![Release](https://img.shields.io/github/v/release/dotslashgabut/Hackintosh-HP-840-G2-Monterey?label=Release)](https://github.com/dotslashgabut/Hackintosh-HP-840-G2-Monterey/releases/latest)
 
-
+## READ THIS BEFORE YOU START
+Original main branch >> [KAnggara75/Hackintosh](https://github.com/KAnggara75/Hackintosh)
 
 <details>
 <summary><strong> REFERENCES </strong></summary>
