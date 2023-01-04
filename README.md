@@ -17,8 +17,13 @@ Original main branch >> [KAnggara75/Hackintosh](https://github.com/KAnggara75/Ha
 
 ### Mapping USB ports
 
+- USBToolBox.kext [USBToolBox](https://github.com/USBToolBox/tool/releases)
+- USBMap.kext [USBMap](https://github.com/CorpNewt/USBMap)
 
-### USBToolBox https://github.com/USBToolBox/tool
+### Bluetooth
+
+- IntelBluetoothFirmware.kext [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)
+- BlueToolFixup.kext [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM/releases)
 
 ---
 
