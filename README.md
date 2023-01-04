@@ -1,4 +1,4 @@
-# OpenCore File and Config for my HP 840 G2
+# EFI OpenCore Files for HP 840 G2 - macOS Monterey
 
 <img align="right" src="https://raw.githubusercontent.com/KAnggara75/Hackintosh/main/docs/img/840g2.jpg" alt="HP 840 G2 Hackintosh OpenCore" width="300">
 
