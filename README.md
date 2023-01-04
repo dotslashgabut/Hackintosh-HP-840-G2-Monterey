@@ -3,11 +3,10 @@
 <img align="right" src="docs/img/840g2.jpg" alt="HP 840 G2 Hackintosh OpenCore" width="300">
 
 [![HP_840-G2](https://img.shields.io/badge/HP-840_G2-blue.svg)](https://www.hp.com/id-id/shop/)
-[![MacOS Big Sur](https://img.shields.io/badge/Big_Sur-11.6-red.svg)](https://www.apple.com/macos/big-sur/)
-[![Release](https://img.shields.io/badge/Download-latest-brightgreen.svg)](https://github.com/kanggara75/Hackintosh-HP-840-G2-OpenCore/releases/latest)
+[![MacOS Monterey](https://img.shields.io/badge/Monterey-12.6.2-red.svg)](https://www.apple.com/macos/monterey/)
+[![Release](https://img.shields.io/badge/Download-latest-brightgreen.svg)](https://github.com/dotslashgabut/Hackintosh-HP-840-G2-Monterey/releases/latest)
 [![OpenCore](https://img.shields.io/github/v/release/acidanthera/OpenCorePkg?label=OpenCore)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
-[![Release](https://img.shields.io/github/v/release/kanggara75/Hackintosh-HP-840-G2-OpenCore?label=Release)](https://github.com/kanggara75/Hackintosh-HP-840-G2-OpenCore/releases/latest)
-[![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-blue.svg)](https://saweria.co/KAnggara75)
+[![Release](https://img.shields.io/github/v/release/dotslashgabut/Hackintosh-HP-840-G2-Monterey?label=Release)](https://github.com/dotslashgabut/Hackintosh-HP-840-G2-Monterey/releases/latest)
 
 ## READ THE ENTIRE README.md BEFORE YOU START
 
@@ -15,9 +14,9 @@
 
 #### Status : Work In Progress
 
-- Complete EFI packs are available in the [releases](https://github.com/kanggara75/Hackintosh-HP-840-G2-OpenCore/releases) page.
+- Complete EFI packs are available in the [releases](https://github.com/dotslashgabut/Hackintosh-HP-840-G2-Monterey/releases) page.
 - I will try my best to keep the repo updated with the latest kexts and OpenCore version.
-- Please **do not clone or download** from the main branch for daily use: it may include **unstable code** just because it is my repository. Use [Release](https://github.com/kanggara75/Hackintosh-HP-840-G2-OpenCore/releases) version
+- Please **do not clone or download** from the main branch for daily use: it may include **unstable code** just because it is my repository. Use [Release](https://github.com/dotslashgabut/Hackintosh-HP-840-G2-Monterey/releases) version
 - This EFI is configured with Big Sur.
 - With every EFI update you retrieve from here please remember to go through the post install guide.
 
