@@ -11,6 +11,8 @@
 ## READ THIS BEFORE YOU START
 Original main branch >> [KAnggara75/Hackintosh](https://github.com/KAnggara75/Hackintosh)
 
+---
+
 <details>
 <summary><strong> REFERENCES </strong></summary>
 <br>
